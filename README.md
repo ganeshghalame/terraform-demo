@@ -8,7 +8,7 @@ I have already configured the [AWS CLI](https://docs.aws.amazon.com/cli/latest/u
 
 ## Deploying AWS EC2 instance using Terraform (.tf file)
 
-`example.tf`
+`aws-example.tf`
 
 Using AWS cloud platform for this example to create the EC2 instance (t2-macro as its a free tier)
 ```javascript
